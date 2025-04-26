@@ -1,2 +1,3 @@
 # mindbox
-Mindbox task
+
+A library for geometric shape calculations for Mindbox.
